@@ -13,7 +13,7 @@ import yaml
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = '5791628bb0b13ce0c676dfde280ba245'
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://ubuntu:root@localhost/ecommerce'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root@localhost/ecommerce'
 db = SQLAlchemy(app)
 bcrypt = Bcrypt(app)
 app.secret_key = 'random string'
@@ -23,9 +23,11 @@ app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 ######### Required in Case of firing complex queries without ORM #########
 db2 = yaml.load(open('config.yaml'))
-app.config['MYSQL_HOST'] = db2['mysql_host']
+app.config['MYSQL_HOST'] = 'localhost'
+#app.config['MYSQL_HOST'] = db2['mysql_host']
 app.config['MYSQL_USER'] = db2['mysql_user']
-app.config['MYSQL_PASSWORD'] = db2['mysql_password']
+app.config['MYSQL_PASSWORD'] = ''
+#app.config['MYSQL_PASSWORD'] = db2['mysql_password']
 app.config['MYSQL_DB'] = db2['mysql_db']
 app.config['MYSQL_CURSORCLASS'] = 'DictCursor'
 mysql = MySQL(app)
@@ -39,4 +41,4 @@ mysql = MySQL(app)
 from ecommerce import models
 from ecommerce import routes
 
-models.db.create_all()
+models.db.create_all() 
