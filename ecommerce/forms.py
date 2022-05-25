@@ -327,7 +327,7 @@ def sendEmailconfirmation(email, username, ordernumber, phonenumber, provider):
           <body>
             <p><br>
                Please stay tuned for more fabulous offers and gadgets.You can visit your account for more details on this order.<br> 
-               <br>Please write to us at <u>stargadgets@engineer.com</u> for any assistance.</br>
+               <br>Please write to us at <u>antukassaw1@gmail.com</u> for any assistance.</br>
                <br></br>
                <br></br>
                Thank you!
@@ -349,7 +349,7 @@ def sendEmailconfirmation(email, username, ordernumber, phonenumber, provider):
     # upgrade insecure connection to secure
     server.starttls()
     server.ehlo()
-    server.login("stargadgets@engineer.com", "stargadget@123")
+    server.login("antukassaw1@gmail.com", "Antu@123")
     server.ehlo()
     server.sendmail(sitemail, email, msg.as_string())
     # hack to send text confirmation using emailsms gateway
