@@ -52,14 +52,14 @@ var countryStateInfo = {
             "Austin": ["73301", "73344"]
         }
     },
-    "India": {
-        "Assam": {
-            "Dispur": ["781005"],
-            "Guwahati": ["781030", "781030"]
+    "Ethiopia": {
+        "Amhara": {
+            "Gonder": ["6200"],
+            "Bahir da": ["6000", "6000"]
         },
-        "Gujarat": {
-            "Vadodara": ["390011", "390020"],
-            "Surat": ["395006", "395002"]
+        "Addis Ababa": {
+            "Bole": ["390011", "390020"],
+            "piassa": ["395006", "395002"]
         }
     }
 }
