@@ -10,11 +10,9 @@ products over an electronic network.`
 * `When we successfully create a connection with the customers and employees, many of them might stay loyal for life -- and have the chance to increase the overall profitability while delivering maximum customer satisfaction.`
 
 **Targeted Users**
-The target users for this project are the customers who are in the online retail market to buy 
-electronic products such as tv,computer,phones with quality and best services.
-The customers will largely be using the application for purchase purposes but are always able to 
-browse through the products and get the relevant information without actually having to make 
-a purchase.
+
+* The target users for this project are the customers who are in the online retail market to buy electronic products such as tv,computer,phones with quality and best services.
+* The customers will largely be using the application for purchase purposes but are always able to browse through the products and get the relevant information without actually having to make a purchase.
 
 
 * `As building ecommerce website has alot of work so we have divided whole project into 3 flows`
