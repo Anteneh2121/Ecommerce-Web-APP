@@ -5,6 +5,8 @@ whole project into 3 flows-
 
 * `type of ecommerce solution that involves customer gathering goods, collecting information on the goods and receiving these 
 products over an electronic network.`
+* `online retail of electronics such as mobiles,laptops,tv,computers etc. It enables users to easily buy electronics over digital media.`
+* `User can select products from various categories and different vendors`
 
 **Home Page**
 
