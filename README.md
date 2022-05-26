@@ -7,8 +7,10 @@ products over an electronic network.`
 * `online retail of electronics such as mobiles,laptops,tv,computers etc. It enables users to easily buy electronics over digital media.`
 * `User can select products from various categories and different vendors`
 
-As building ecommerce website has alot of work so we have divided 
-whole project into 3 flows-
+* `When we successfully create a connection with the customers and employees, many of them might stay loyal for life -- and have the chance to increase the overall profitability while delivering maximum customer satisfaction.`
+
+* `As building ecommerce website has alot of work so we have divided whole project into 3 flows`
+
 **Home Page**
 
  
