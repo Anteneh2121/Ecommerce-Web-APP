@@ -3,7 +3,11 @@
 As building ecommerce website has alot of work so we have divided 
 whole project into 3 flows-
 
+* `type of ecommerce solution that involves customer gathering goods, collecting information on the goods and receiving these 
+products over an electronic network.`
+
 **Home Page**
+
  
     1. Showing all active products (title and price)
     2. Showing all active categories (title and price) 
