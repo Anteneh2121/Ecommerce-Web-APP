@@ -9,43 +9,32 @@ Mobile-Ecommerce Web application
 **ALX Africa**
 Fall 20121
 
-Project Overview
-● Star Gadgets is a B2C(Business to Customer) type of ecommerce solution that involves 
-customer gathering goods, collecting information on the goods and receiving these 
-products over an electronic network. This type of eCommerce is second largest and 
-earliest form of ecommerce. 
-● Star gadget specializes in online retail of electronics such as mobiles,laptops,tv,computers 
-etc. It enables users to easily buy electronics over digital media.
-● The system allows user to shop year around 24/7 without having to worry about 
-anything.
-● User can select products from various categories and different vendors.
-Project Overview(Contd.)
-● B2C e-commerce transactions are not strictly bound to retail shopping. Many customers 
-purchase health insurance, auto insurance and similar products online.
-● Star gadgets is just a small part of a very large system/domain. Star gadgets strictly 
-belongs to the retail domain.
-● Retailers are part of an integrated system called the supply-chain which is again the 
-management of the flow of goods and services,that involves the movement and storage 
-of raw materials, of work-in-process inventory, and of finished goods from point of origin 
-to point of consumption.
-Our Mission
-“When we successfully create a connection with the customers and employees, many of 
-them might stay loyal for life -- and have the chance to increase the overall profitability while 
-delivering maximum customer satisfaction.”
-Stargadgets is just a small initiative towards this belief.
-Targeted Users
-The target users for this project are the customers who are in the online retail market to buy 
-electronic products such as tv,computer,phones with quality and best services.
-The customers will largely be using the application for purchase purposes but are always able to 
-browse through the products and get the relevant information without actually having to make 
-a purchase.
-Another user for the application would be the admin who will do day-to-day administration 
-activities such as adding products,blacklisting users or have a look at the statistical analysis of 
-the products sold. 
-Database design- ER Diagram 2.0
-Functional Requirements
-Project Scope
-Design Goals:The application consists of mainly 3 flows - 
+**Project Overview**
+
+* Ecommerce-web-application is  type of ecommerce solution that involves customer gathering goods, collecting information on the goods and receiving these 
+ products over an electronic network.
+* ● It t specializes in online retail of electronics such as mobiles,laptops,tv,computers etc. It enables users to easily buy electronics over digital media.
+
+* ● The system allows user to shop year around 24/7 without having to worry about anything.
+
+* ● User can select products from various categories and different vendors.Project Overview(Contd.)
+
+
+* ● Retailers are part of an integrated system called the supply-chain which is again the management of the flow of goods and services,that involves the   movement and storage of raw materials, of work-in-process inventory, and of finished goods from point of origin to point of consumption.
+**Our Mission**
+* “When we successfully create a connection with the customers and employees, many of them might stay loyal for life -- and have the chance to increase the overall profitability while delivering maximum customer satisfaction.”
+* Ecommerce-web-app is just a small initiative towards this belief.
+**Targeted Users**
+
+* The target users for this project are the customers who are in the online retail market to buy electronic products such as tv,computer,phones with quality and best services.
+
+* The customers will largely be using the application for purchase purposes but are always able to browse through the products and get the relevant information without actually having to make a purchase.
+
+* Another user for the application would be the admin who will do day-to-day administration activities such as adding products,blacklisting users or have a look at the statistical analysis of the products sold. 
+* Database design- ER Diagram 2.0
+* Functional Requirements
+*  Project Scope
+* Design Goals:The application consists of mainly 3 flows - 
 Flow #1 -
 View Home Page
 Browse products
@@ -152,7 +141,7 @@ Integrity
 The system must be able to protect and preserve transactions.
 Version Control System
 Git - 
-https://github.com/nikhilagrwl07/ecommerce-flask-python
+https://github.com/Anteneh2121/Ecommerce-Web_App
 Feature Branch Technique
 
 Project Structure
