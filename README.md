@@ -1,13 +1,8 @@
 # Ecommerce-web_App
-full fluged web application using python flask framework
-Mobile-Ecommerce Web application
-* It An ecommerce solution for most of your electronic needs. 
-* Students:-Anteneh Bizuneh
- 
-* programme: ALX Software engineering
 
-**ALX Africa**
-Fall 20121
+**full fluged web application using python flask framework
+Mobile-Ecommerce Web application
+*It An ecommerce solution for most of your electronic needs. 
 
 **Project Overview**
 
