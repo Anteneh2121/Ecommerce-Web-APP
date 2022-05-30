@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+"""
+starts a Flask web application and connecting with database
+"""
 from datetime import datetime
 from ecommerce import db
 
