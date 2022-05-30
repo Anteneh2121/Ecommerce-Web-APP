@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+"""
+starts a Flask web application
+"""
 import os
 import secrets
 from PIL import Image
