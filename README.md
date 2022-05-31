@@ -93,11 +93,11 @@ In my country Ethiopia most of electronics are advertised on telegram and facebo
 
 **technical challenge**
 
-1.* Setting Up/Configuring flask-SQLAlchemy ORM along with RAW MYSQL DB connection within same project
+   * Setting Up/Configuring flask-SQLAlchemy ORM along with RAW MYSQL DB connection within same project
 
-2. * Defining flask session at per user login level instead of overall level and changing it’s default value
+   * Defining flask session at per user login level instead of overall level and changing it’s default value
  
- 4. * Loading dependent (parent-child related) javascript values on user registration page (still not able to figure on how to read values directly from DB in javascript files)
+   * Loading dependent (parent-child related) javascript values on user registration page (still not able to figure on how to read values directly from DB in javascript files)
 
 
 
