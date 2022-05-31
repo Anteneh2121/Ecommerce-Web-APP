@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+"""
+imports the Flask class from the flask module 
+"""
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 from flask_bcrypt import Bcrypt
