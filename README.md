@@ -80,6 +80,7 @@ flask run
 **Contributing**
 
 **Anteneh Bizuneh**
+
 [Anteneh2121](https://github.com/Anteneh2121)
 
 **Related projects**
@@ -87,16 +88,16 @@ flask run
 I have not done this type of related projects
 
 **inspiration**
+
 In my country Ethiopia most of electronics are advertised on telegram and facebook, so I have raised the question why I do ecommerce web application to make easy for customers easily buy over digital media is my main inspiration.
 
 **technical challenge**
 
-1.Setting Up/Configuring flask-SQLAlchemy ORM along with RAW MYSQL DB 
-connection within same project
-2. Defining flask session at per user login level instead of overall level and changing it’s 
-default value
-3. Loading dependent (parent-child related) javascript values on user registration page (still 
-not able to figure on how to read values directly from DB in javascript files)
+1.Setting Up/Configuring flask-SQLAlchemy ORM along with RAW MYSQL DB connection within same project
+
+2. Defining flask session at per user login level instead of overall level and changing it’s default value
+3. 
+4. Loading dependent (parent-child related) javascript values on user registration page (still not able to figure on how to read values directly from DB in javascript files)
 
 
 
