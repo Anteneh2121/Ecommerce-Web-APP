@@ -20,6 +20,11 @@ products over an electronic network.
   <img src="https://github.com/Anteneh2121/Ecommerce-Web-APP/blob/main/ecommerce/images/Home.PNG" width="1000" height="600" alt="accessibility text">
 </p>
 
+**Product landing page**
+
+<p align="center">
+  <img src="https://github.com/Anteneh2121/Ecommerce-Web-APP/blob/main/ecommerce/images/Product_landing.PNG" width="1000" height="600" alt="accessibility text">
+</p>
 **Cart page**
 <p align="center">
   <img src="https://github.com/Anteneh2121/Ecommerce-Web-APP/blob/main/ecommerce/images/Cart.PNG" width="1000" height="600" alt="accessibility text">
