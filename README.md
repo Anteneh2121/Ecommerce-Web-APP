@@ -25,6 +25,7 @@ products over an electronic network.
 <p align="center">
   <img src="https://github.com/Anteneh2121/Ecommerce-Web-APP/blob/main/ecommerce/images/Product_landing.PNG" width="1000" height="600" alt="accessibility text">
 </p>
+
 **Cart page**
 <p align="center">
   <img src="https://github.com/Anteneh2121/Ecommerce-Web-APP/blob/main/ecommerce/images/Cart.PNG" width="1000" height="600" alt="accessibility text">
@@ -37,6 +38,9 @@ products over an electronic network.
 </p>
 
 ##  Installation
+
+install on ubuntu 20.04 machine using the ff command
+git clone https://github.com/Anteneh2121/Ecommerce-Web-APP
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the dependencies.
 
