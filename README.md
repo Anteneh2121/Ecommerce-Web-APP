@@ -17,12 +17,12 @@ products over an electronic network.
  
    **Home page**
 <p align="center">
-  <img src="https://github.com/Anteneh2121/Ecommerce-Web-APP/blob/main/Ecommerce/images/Home.PNG" width="1000" height="600" alt="accessibility text">
+  <img src="https://github.com/Anteneh2121/Ecommerce-Web-APP/blob/main/ecommerce/images/Home.PNG" width="1000" height="600" alt="accessibility text">
 </p>
 
 **Cart page**
 <p align="center">
-  <img src="https://github.com/Anteneh2121/Ecommerce-Web-APP/blob/main/Ecommerce/images/Cart.PNG" width="1000" height="600" alt="accessibility text">
+  <img src="https://github.com/Anteneh2121/Ecommerce-Web-APP/blob/main/ecommerce/images/Cart.PNG" width="1000" height="600" alt="accessibility text">
 </p>
 
 **Check out**
