@@ -38,6 +38,34 @@ products over an electronic network.
 
 ##  Installation
 
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the dependencies.
+
+Go in the same directory as the requirements.txt file and run the following
+
+```bash
+pip install -r requirements.txt
+```
+## Usage
+
+There are two ways to run the application the application
+
+### Run as Python application 
+
+Go to the same directory as the main application and run the following
+
+```bash
+python wsgi.py
+```
+### Run as Flask application 
+
+Go to the same directory as the main application and run the following
+
+
+```bash
+set FLASK_APP=application.py
+flask run
+```
+
 
 
 * `As building ecommerce website has alot of work so we have divided whole project into 3 flows`
