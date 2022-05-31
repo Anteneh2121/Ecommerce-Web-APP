@@ -90,6 +90,7 @@
   };
 
   // Build html for the lightbox and the overlay.
+  // Build html for the lightbox and the overlay.
   // Attach event handlers to the new DOM elements. click click click
   Lightbox.prototype.build = function() {
     var self = this;
