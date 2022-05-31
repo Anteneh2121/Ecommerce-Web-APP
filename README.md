@@ -37,6 +37,9 @@ products over an electronic network.
   <img src="https://github.com/Anteneh2121/Ecommerce-Web-APP/blob/main/ecommerce/images/Checkout.PNG" width="1000" height="600" alt="accessibility text">
 </p>
 
+ 📫 Connect with me [LinkedIn](https://www.linkedin.com/in/anteneh-kassaw-bizuneh-334430212/)
+
+
 ##  Installation
 
 ```install on ubuntu 20.04 machine using the ff command
@@ -77,6 +80,8 @@ flask run
 ## Author :black_nib:
 
 * **Anteneh Bizuneh** <[Anteneh2121](https://github.com/Anteneh2121)>
+
+
  📫 Connect with me [LinkedIn](https://www.linkedin.com/in/anteneh-kassaw-bizuneh-334430212/)
 
 
