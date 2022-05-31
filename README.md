@@ -108,4 +108,7 @@ In my country Ethiopia most of electronics are advertised on telegram and facebo
 
  📫 Connect with me [LinkedIn](https://www.linkedin.com/in/anteneh-kassaw-bizuneh-334430212/)
 
+## License :lock:
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
