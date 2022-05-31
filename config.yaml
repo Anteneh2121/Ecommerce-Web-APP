@@ -1,4 +1,6 @@
-mysqlmysql_host: 'localhost'        
+# Enter your host in field below
+mysqlmysql_host: 'localhost' 
+# Enter your user name in field below
 mysql_user: 'root'
 # Enter your password in field below
 mysql_password: ''
