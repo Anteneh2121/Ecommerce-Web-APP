@@ -59,6 +59,11 @@ There are two ways to run the application the application
 
 Go to the same directory as the main application and run the following
 
+
+```Ubuntu 20.04
+python app.py
+```
+
 ### Run as Flask application 
 
 Go to the same directory as the main application and run the following
