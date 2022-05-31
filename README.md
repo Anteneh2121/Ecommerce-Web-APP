@@ -77,6 +77,7 @@ flask run
 ## Author :black_nib:
 
 * **Anteneh Bizuneh** <[Anteneh2121](https://github.com/Anteneh2121)>
+ 📫 Connect with me [LinkedIn](https://www.linkedin.com/in/anteneh-kassaw-bizuneh-334430212/)
 
 
 * `As building ecommerce website has alot of work so we have divided whole project into 3 flows`
