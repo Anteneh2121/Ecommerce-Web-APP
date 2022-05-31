@@ -2,12 +2,12 @@
 
 **Introduction**
 
-* `type of ecommerce solution that involves customer gathering goods, collecting information on the goods and receiving these 
-products over an electronic network.`
-* `online retail of electronics such as mobiles,laptops,tv,computers etc. It enables users to easily buy electronics over digital media.`
-* `User can select products from various categories and different vendors`
+* type of ecommerce solution that involves customer gathering goods, collecting information on the goods and receiving these 
+products over an electronic network.
+* online retail of electronics such as mobiles,laptops,tv,computers etc. It enables users to easily buy electronics over digital media.
+* User can select products from various categories and different vendors
 
-* `When we successfully create a connection with the customers and employees, many of them might stay loyal for life -- and have the chance to increase the overall profitability while delivering maximum customer satisfaction.`
+* When we successfully create a connection with the customers and employees, many of them might stay loyal for life -- and have the chance to increase the overall profitability while delivering maximum customer satisfaction.
 
 **Targeted Users**
 
