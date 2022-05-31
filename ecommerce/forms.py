@@ -13,6 +13,7 @@ from wtforms.validators import DataRequired, Length, Email
 from ecommerce import mysql
 from ecommerce.models import *
 
+# START PRODUCTS MODULE
 
 def getAllProducts():
     itemData = Product.query.join(ProductCategory, Product.productid == ProductCategory.productid) \
@@ -23,6 +24,7 @@ def getAllProducts():
         .all()
     return itemData
 
+# START CATEGORY DETAIL
 
 def getCategoryDetails():
     itemData = Category.query.join(ProductCategory, Category.categoryid == ProductCategory.categoryid) \
@@ -32,6 +34,7 @@ def getCategoryDetails():
         .all()
     return itemData
 
+# START ITEM DETAIL AND GET MESSAGE
 
 def massageItemData(data):
     ans = []
