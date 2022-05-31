@@ -15,7 +15,7 @@ products over an electronic network.
 * The customers will largely be using the application for purchase purposes but are always able to browse through the products and get the relevant information without actually having to make a purchase.
 
 <p align="center">
-  <img src="https://github.com/Anteneh2121/Ecommerce-Web-APP/blob/master/Home.png" width="1000" height="600" alt="accessibility text">
+  <img src="https://github.com/Anteneh2121/Ecommerce-Web-APP/blob/main/Home.PNG" width="1000" height="600" alt="accessibility text">
 </p>
 
 ##  Installation
