@@ -78,7 +78,8 @@ flask run
 ```
 
 **Contributing**
-*Anteneh Bizuneh
+
+**Anteneh Bizuneh**
 
 ## Author :black_nib:
 
