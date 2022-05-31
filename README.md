@@ -39,9 +39,10 @@ products over an electronic network.
 
 ##  Installation
 
-install on ubuntu 20.04 machine using the ff command
+```install on ubuntu 20.04 machine using the ff command
 
 git clone https://github.com/Anteneh2121/Ecommerce-Web-APP
+```
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the dependencies.
 
