@@ -20,7 +20,7 @@ products over an electronic network.
 
 **Cart page**
 <p align="center">
-  <img src="https://github.com/Anteneh2121/Ecommerce-Web-APP/blob/main/Home.PNG" width="1000" height="600" alt="accessibility text">
+  <img src="https://github.com/Anteneh2121/Ecommerce-Web-APP/blob/main/Ecommerce/images/Home.PNG" width="1000" height="600" alt="accessibility text">
 </p>
 
 ##  Installation
