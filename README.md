@@ -77,6 +77,9 @@ export FLASK_APP=app.py
 flask run
 ```
 
+**Contributing**
+*Anteneh Bizuneh
+
 ## Author :black_nib:
 
 * **Anteneh Bizuneh** <[Anteneh2121](https://github.com/Anteneh2121)>
