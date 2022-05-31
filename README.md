@@ -1,6 +1,6 @@
-# Python_flask
+# Ecommerce-Web-APP
 
-**overview**
+**Introduction**
 
 * `type of ecommerce solution that involves customer gathering goods, collecting information on the goods and receiving these 
 products over an electronic network.`
