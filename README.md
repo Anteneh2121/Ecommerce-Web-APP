@@ -42,7 +42,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the dep
 
 Go in the same directory as the requirements.txt file and run the following
 
-```bash
+```Ubuntu 20.04
 pip install -r requirements.txt
 ```
 ## Usage
@@ -53,16 +53,13 @@ There are two ways to run the application the application
 
 Go to the same directory as the main application and run the following
 
-```bash
-python wsgi.py
-```
 ### Run as Flask application 
 
 Go to the same directory as the main application and run the following
 
 
 ```bash
-set FLASK_APP=application.py
+export FLASK_APP=app.py
 flask run
 ```
 
