@@ -78,6 +78,7 @@ var
 
 	// Support: Android<4.1
 	// Make sure we trim BOM and NBSP
+        // Make sure we trim BOM and NBSP
 	rtrim = /^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g,
 
 	// Matches dashed string for camelizing
