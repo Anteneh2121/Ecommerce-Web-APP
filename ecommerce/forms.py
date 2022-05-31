@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+"""
+starts a Flask web application form detail
+"""
 import hashlib
 import smtplib
 from email.mime.multipart import MIMEMultipart
@@ -335,7 +339,7 @@ def sendEmailconfirmation(email, username, ordernumber, phonenumber, provider):
                <br></br>
                Thank you!
                <br></br>
-               StarGadgets Team          
+               Devloper team         
             </p>
           </body>
         </html>
