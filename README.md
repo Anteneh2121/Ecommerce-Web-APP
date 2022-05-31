@@ -28,7 +28,7 @@ products over an electronic network.
 **Check out**
 
 <p align="center">
-  <img src="https://github.com/Anteneh2121/Ecommerce-Web-APP/blob/main/Ecommerce/images/checkout.jpg" width="1000" height="600" alt="accessibility text">
+  <img src="https://github.com/Anteneh2121/Ecommerce-Web-APP/blob/main/ecommerce/images/checkout.jpg" width="1000" height="600" alt="accessibility text">
 </p>
 
 ##  Installation
