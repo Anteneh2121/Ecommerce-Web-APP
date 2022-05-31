@@ -74,6 +74,9 @@ export FLASK_APP=app.py
 flask run
 ```
 
+## Author :black_nib:
+
+* **Anteneh Bizuneh** <[Anteneh2121](https://github.com/Anteneh2121)>
 
 
 * `As building ecommerce website has alot of work so we have divided whole project into 3 flows`
