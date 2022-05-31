@@ -83,15 +83,15 @@ flask run
 
 [Anteneh2121](https://github.com/Anteneh2121)
 
-**Related projects**
+##  Related projects
 
 I have not done this type of related projects
 
-**inspiration**
+## inspiration
 
 In my country Ethiopia most of electronics are advertised on telegram and facebook, so I have raised the question why I do ecommerce web application to make easy for customers easily buy over digital media is my main inspiration.
 
-**technical challenge**
+##  technical challenge
 
    * Setting Up/Configuring flask-SQLAlchemy ORM along with RAW MYSQL DB connection within same project
 
