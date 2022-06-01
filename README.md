@@ -38,6 +38,7 @@ products over an electronic network.
 </p>
 
  📫 Connect with me [LinkedIn](https://www.linkedin.com/in/anteneh-kassaw-bizuneh-334430212/)
+ 
  Blog article [medium](https://medium.com/@antukassaw1/mobile-ecommerce-web-application-b3670ee183cc)
 
 
