@@ -89,7 +89,7 @@ flask run
 
 I have not done this type of related projects
 
-## inspiration
+## inspirations
 
 In my country Ethiopia most of electronics are advertised on telegram and facebook, so I have raised the question why I do ecommerce web application to make easy for customers easily buy over digital media is my main inspiration.
 
