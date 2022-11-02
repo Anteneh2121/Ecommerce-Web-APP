@@ -105,10 +105,13 @@ In my country Ethiopia most of electronics are advertised on telegram and facebo
 
 ## Author :black_nib:
 
-* **Anteneh Bizuneh** <[Anteneh2121](https://github.com/Anteneh2121)>
+<p> About me:<p>
 
-
- 📫 Connect with me [LinkedIn](https://www.linkedin.com/in/anteneh-kassaw-bizuneh-334430212/)
+<p>Backends | Cloud</p>
+:boy: <b>Anteneh Bizuneh</b> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="https://twitter.com/">Twitter</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/">Github</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com">Linkedin</a> ]<br><br>
 
 ## License :lock:
 
